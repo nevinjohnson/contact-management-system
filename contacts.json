@@ -1,0 +1,34 @@
+{
+    "contacts": [
+        {
+            "name": "Tom",
+            "age": "21",
+            "email": "tom@gmail.com"
+        },
+        {
+            "name": "Jack",
+            "age": "19",
+            "email": "jack@gmail.com"
+        },
+        {
+            "name": "Nevin",
+            "age": "20",
+            "email": "nevin@gmail.com"
+        },
+        {
+            "name": "Raiyan",
+            "age": "22",
+            "email": "r@gmail.com"
+        },
+        {
+            "name": "Pavithra",
+            "age": "19",
+            "email": "pavi@gmail.com"
+        },
+        {
+            "name": "Axis",
+            "age": "20",
+            "email": "axis@gmail.com"
+        }
+    ]
+}
